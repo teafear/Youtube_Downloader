@@ -27,7 +27,7 @@ YouTube Downloader App is a user-friendly and stylish application for downloadin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/YouTube-Downloader-App.git
+   git clone https://github.com/teafear/Youtube_Downloader.git
    cd YouTube-Downloader-App
    ```
 2. Install the dependencies:   
@@ -91,7 +91,7 @@ This project is licensed under the MIT License.
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/YouTube-Downloader-App.git
+   git clone https://github.com/teafear/Youtube_Downloader.git
    cd YouTube-Downloader-App
    ```
 2. Установите зависимости:  
